@@ -1,6 +1,6 @@
 # pantrytracker
 # a project that i made thats supposed to resemble a panttry and adding/removing items
-
+DEPLOYED LINK: https://pantrytracker-ruby.vercel.app/
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
